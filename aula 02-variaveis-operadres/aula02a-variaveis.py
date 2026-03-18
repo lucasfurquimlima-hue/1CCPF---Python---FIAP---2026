@@ -46,4 +46,3 @@ soma = numero1 + numero2
 print(f"o primeiro numero foi: {numero1}")
 print(f"o segundo numero foi: {numero2}")
 print(f"a soma total é: {soma}")
-''
